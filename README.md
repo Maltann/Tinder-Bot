@@ -4,10 +4,10 @@ This script has been writen by maltan
 Thank you to download this bot !
 
 -Request-
-Chromedriver : https://chromedriver.chromium.org/downloads (it has to be the same version of your google chrome ! go to settings for see the version)
-Python : https://www.python.org/ (for execute the script)
-Pycharm : https://www.jetbrains.com/pycharm/ (for launch the script and install)
-In Pycharm, write thoes commands in the terminal : "pip install selenium", "pip install pyautogui"
+-Chromedriver : https://chromedriver.chromium.org/downloads (it has to be the same version of your google chrome ! go to settings for see the version)
+-Python : https://www.python.org/ (for execute the script)
+-Pycharm : https://www.jetbrains.com/pycharm/ (for launch the script and install)
+-In Pycharm, write thoes commands in the terminal : "pip install selenium", "pip install pyautogui"
 
 -How to use-
 1. Put all the files of the .rar folder in the same folder
