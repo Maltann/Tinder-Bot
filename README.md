@@ -16,9 +16,10 @@ Thank you to download this bot !
 4. Launch the script
 
 -Problem that you can meet :
-The window don't start : The version of the chromedriver.exe is not the same of the one of google chrome, just download the good version ;)
-The bot cannot click the button : 1. The XPATH used by the script is no longer available, just replace it by inspecting the page and copy the XPATH of the like button
-				                          2. The window is not focussed, just launch the bot and click quickly on the chrome window
+1. The window don't start : The version of the chromedriver.exe is not the same of the one of google chrome, just download the good version ;)
+2. The bot cannot click the button : 
+	1. The XPATH used by the script is no longer available, just replace it by inspecting the page and copy the XPATH of the like button
+	2. The window is not focussed, just launch the bot and click quickly on the chrome window
 
 
 Have fun with this bot ;)
