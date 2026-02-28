@@ -1,4 +1,6 @@
 # Tinder-Bot
+(please note this script is depreciated, no longer maintained and propably don't work anymore)
+
 This script has been writen by maltan
 
 Thank you to download this bot !
